@@ -3,6 +3,7 @@ const app = express()
 const port = 3000
 
 const food = require('./data/food.js')
+const drinks = require('./data/drinks.js')
 
 
 app.listen(port, (req,res) => {
