@@ -23,3 +23,5 @@ const desserts = [
         flavors: ['Strawberry', 'Cherry', 'Apple', 'Pumpkin']
     }
 ]
+
+module.exports = desserts
