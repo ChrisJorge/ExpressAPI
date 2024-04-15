@@ -31,3 +31,5 @@ const food = [
         sides: ['Mashed Potaoes']
     }
 ]
+
+module.exports = food;
